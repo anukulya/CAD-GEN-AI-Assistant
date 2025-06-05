@@ -1,0 +1,1144 @@
+{
+  "Features": [
+    {
+      "type": "Sketch",
+      "Name": "",
+      "subtype": "Unknown",
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Curves": [
+        {
+          "Type": "Line",
+          "StartPoint": {
+            "X": -52.999999999999993,
+            "Y": 31.999999999999876,
+            "Z": 0.0
+          },
+          "EndPoint": {
+            "X": 61.0,
+            "Y": 31.999999999999424,
+            "Z": 0.0
+          },
+          "CenterPoint": null,
+          "Radius": 0.0,
+          "StartAngle": 0.0,
+          "EndAngle": 0.0
+        },
+        {
+          "Type": "Line",
+          "StartPoint": {
+            "X": 61.000000000006409,
+            "Y": -32.000000000000583,
+            "Z": 0.0
+          },
+          "EndPoint": {
+            "X": -53.000000000000057,
+            "Y": -32.000000000005151,
+            "Z": 0.0
+          },
+          "CenterPoint": null,
+          "Radius": 0.0,
+          "StartAngle": 0.0,
+          "EndAngle": 0.0
+        },
+        {
+          "Type": null,
+          "StartPoint": null,
+          "EndPoint": null,
+          "CenterPoint": null,
+          "Radius": 0.0,
+          "StartAngle": 0.0,
+          "EndAngle": 0.0
+        },
+        {
+          "Type": null,
+          "StartPoint": null,
+          "EndPoint": null,
+          "CenterPoint": null,
+          "Radius": 0.0,
+          "StartAngle": 0.0,
+          "EndAngle": 0.0
+        },
+        {
+          "Type": null,
+          "StartPoint": null,
+          "EndPoint": null,
+          "CenterPoint": null,
+          "Radius": 0.0,
+          "StartAngle": 0.0,
+          "EndAngle": 0.0
+        },
+        {
+          "Type": null,
+          "StartPoint": null,
+          "EndPoint": null,
+          "CenterPoint": null,
+          "Radius": 0.0,
+          "StartAngle": 0.0,
+          "EndAngle": 0.0
+        }
+      ],
+      "Dimensions": []
+    },
+    {
+      "type": "Sketch",
+      "Name": "",
+      "subtype": "Unknown",
+      "Origin": {
+        "X": 60.999999999999986,
+        "Y": 2.2885802841862969E-11,
+        "Z": 19.0
+      },
+      "Curves": [
+        {
+          "Type": "Line",
+          "StartPoint": {
+            "X": -30.151245361343712,
+            "Y": 32.000000000022887,
+            "Z": 19.0
+          },
+          "EndPoint": {
+            "X": 33.848754638656331,
+            "Y": 32.000000000022887,
+            "Z": 19.0
+          },
+          "CenterPoint": null,
+          "Radius": 0.0,
+          "StartAngle": 0.0,
+          "EndAngle": 0.0
+        },
+        {
+          "Type": "Line",
+          "StartPoint": {
+            "X": 33.848754638656331,
+            "Y": 32.000000000022887,
+            "Z": 19.0
+          },
+          "EndPoint": {
+            "X": 33.848754638656331,
+            "Y": -31.999999999977113,
+            "Z": 19.0
+          },
+          "CenterPoint": null,
+          "Radius": 0.0,
+          "StartAngle": 0.0,
+          "EndAngle": 0.0
+        },
+        {
+          "Type": "Line",
+          "StartPoint": {
+            "X": 33.848754638656338,
+            "Y": -31.999999999977113,
+            "Z": 19.0
+          },
+          "EndPoint": {
+            "X": -30.151245361343712,
+            "Y": -31.999999999977113,
+            "Z": 19.0
+          },
+          "CenterPoint": null,
+          "Radius": 0.0,
+          "StartAngle": 0.0,
+          "EndAngle": 0.0
+        },
+        {
+          "Type": "Line",
+          "StartPoint": {
+            "X": -30.151245361343712,
+            "Y": -31.999999999977113,
+            "Z": 19.0
+          },
+          "EndPoint": {
+            "X": -30.151245361343712,
+            "Y": 32.000000000022887,
+            "Z": 19.0
+          },
+          "CenterPoint": null,
+          "Radius": 0.0,
+          "StartAngle": 0.0,
+          "EndAngle": 0.0
+        }
+      ],
+      "Dimensions": []
+    },
+    {
+      "type": "Sketch",
+      "Name": "",
+      "subtype": "Unknown",
+      "Origin": {
+        "X": -30.151245361343712,
+        "Y": 32.000000000022879,
+        "Z": 64.0
+      },
+      "Curves": [],
+      "Dimensions": [
+        {
+          "DimensionType": "Unknown",
+          "Value": 30.02688047967,
+          "ExpressionName": "p116"
+        },
+        {
+          "DimensionType": "Unknown",
+          "Value": 29.86640793151,
+          "ExpressionName": "p117"
+        }
+      ]
+    },
+    {
+      "HoleType": "Counterbored",
+      "HoleDia": 25.0,
+      "HoleDepth": 50.0,
+      "HoleDirection": "FaceNormal",
+      "HoleDepthLimit": "ThroughBody",
+      "BooleanType": null,
+      "HoleOrigin": {
+        "X": -0.28483742982921,
+        "Y": 1.97311952035673,
+        "Z": 64.0
+      },
+      "type": "Hole",
+      "Name": "",
+      "subtype": "Unknown"
+    },
+    {
+      "type": "Sketch",
+      "Name": "",
+      "subtype": "Unknown",
+      "Origin": {
+        "X": 60.999999999999986,
+        "Y": 2.2885802841862969E-11,
+        "Z": 19.0
+      },
+      "Curves": [],
+      "Dimensions": [
+        {
+          "DimensionType": "Unknown",
+          "Value": 1.88270582425,
+          "ExpressionName": "p230"
+        },
+        {
+          "DimensionType": "Unknown",
+          "Value": 3.21537621301,
+          "ExpressionName": "p231"
+        }
+      ]
+    },
+    {
+      "HoleType": "Simple",
+      "HoleDia": 22.0,
+      "HoleDepth": 50.0,
+      "HoleDirection": "FaceNormal",
+      "HoleDepthLimit": "ThroughBody",
+      "BooleanType": null,
+      "HoleOrigin": {
+        "X": 62.8827058242485,
+        "Y": -3.21537621298962,
+        "Z": 19.0
+      },
+      "type": "Hole",
+      "Name": "",
+      "subtype": "Unknown"
+    },
+    {
+      "type": "Sketch",
+      "Name": "",
+      "subtype": "Unknown",
+      "Origin": {
+        "X": -53.0,
+        "Y": -6.4233063312713057E-12,
+        "Z": 19.0
+      },
+      "Curves": [],
+      "Dimensions": [
+        {
+          "DimensionType": "Unknown",
+          "Value": 5.71906080428,
+          "ExpressionName": "p344"
+        },
+        {
+          "DimensionType": "Unknown",
+          "Value": 1.6235282721,
+          "ExpressionName": "p345"
+        }
+      ]
+    },
+    {
+      "HoleType": "Simple",
+      "HoleDia": 22.0,
+      "HoleDepth": 50.0,
+      "HoleDirection": "FaceNormal",
+      "HoleDepthLimit": "ThroughBody",
+      "BooleanType": null,
+      "HoleOrigin": {
+        "X": -58.7190608042816,
+        "Y": -1.62352827210288,
+        "Z": 19.0
+      },
+      "type": "Hole",
+      "Name": "",
+      "subtype": "Unknown"
+    }
+  ],
+  "Attributes": [
+    {
+      "Title": "NX_ComponentGroup",
+      "Value": "AllComponents",
+      "Unit": null
+    },
+    {
+      "Title": "NX_ReferenceSet",
+      "Value": "MODEL",
+      "Unit": null
+    },
+    {
+      "Title": "NX_AreaSource",
+      "Value": "From Design",
+      "Unit": null
+    },
+    {
+      "Title": "NX_Area",
+      "Value": "46829.391282962",
+      "Unit": null
+    },
+    {
+      "Title": "NX_WeightSource",
+      "Value": "From Design",
+      "Unit": null
+    },
+    {
+      "Title": "NX_Weight",
+      "Value": "24.4160594838622",
+      "Unit": null
+    },
+    {
+      "Title": "NX_MassSource",
+      "Value": "From Design",
+      "Unit": null
+    },
+    {
+      "Title": "NX_Mass",
+      "Value": "2.48974517127278",
+      "Unit": null
+    },
+    {
+      "Title": "NX_VolumeSource",
+      "Value": "From Design",
+      "Unit": null
+    },
+    {
+      "Title": "NX_Volume",
+      "Value": "317949.129480193",
+      "Unit": null
+    },
+    {
+      "Title": "NX_DensitySource",
+      "Value": "From Design",
+      "Unit": null
+    },
+    {
+      "Title": "NX_Density",
+      "Value": "7.83064e-06",
+      "Unit": null
+    },
+    {
+      "Title": "DB_SEED_PART_USED",
+      "Value": "EEM_Template_Model/04",
+      "Unit": null
+    },
+    {
+      "Title": "TC_REV_NAME",
+      "Value": "EEM_Template_Model",
+      "Unit": null
+    },
+    {
+      "Title": "TC_CONFIDENTIALITY_CLASS",
+      "Value": "Confidential (II)",
+      "Unit": null
+    },
+    {
+      "Title": "TC_E_DESIGN_OBJECT_STRING",
+      "Value": "EEM_Template_Model/04/MAJOR",
+      "Unit": null
+    },
+    {
+      "Title": "TC_ALLOWABLE_TOLERANCE",
+      "Value": "not specified",
+      "Unit": null
+    },
+    {
+      "Title": "TC_E_DESIGN_TYPE",
+      "Value": "Part",
+      "Unit": null
+    },
+    {
+      "Title": "TC_CHANGE_DESCRIPTION",
+      "Value": " ",
+      "Unit": null
+    },
+    {
+      "Title": "NX_MaterialMissingAssignments",
+      "Value": "TRUE",
+      "Unit": null
+    },
+    {
+      "Title": "NX_MaterialMultipleAssigned",
+      "Value": "FALSE",
+      "Unit": null
+    },
+    {
+      "Title": "TC_CREATION_USER_ITEM",
+      "Value": "infodba",
+      "Unit": null
+    },
+    {
+      "Title": "TC_CREATION_USER",
+      "Value": "infodba",
+      "Unit": null
+    },
+    {
+      "Title": "DB_PART_TYPE",
+      "Value": "P5_E_Design",
+      "Unit": null
+    },
+    {
+      "Title": "DB_PART_NO",
+      "Value": "EEM_Template_Model",
+      "Unit": null
+    },
+    {
+      "Title": "DB_PART_REV",
+      "Value": "04",
+      "Unit": null
+    },
+    {
+      "Title": "DB_PART_DESC",
+      "Value": "EEM_Template_Model",
+      "Unit": null
+    },
+    {
+      "Title": "DB_PART_NAME",
+      "Value": "EEM_Template_Model",
+      "Unit": null
+    },
+    {
+      "Title": "DB_PART_MFKID",
+      "Value": "EEM_Template_Model",
+      "Unit": null
+    }
+  ],
+  "Bodies": [],
+  "Faces": [
+    {
+      "FaceType": "Cylindrical",
+      "FaceName": "FACE-1",
+      "ID": "RMCS BRACKET.prt R0000646c0000002f"
+    },
+    {
+      "FaceType": "Cylindrical",
+      "FaceName": "FACE-2",
+      "ID": "RMCS BRACKET.prt R0000569a0000002f"
+    },
+    {
+      "FaceType": "Planar",
+      "FaceName": "FACE-3",
+      "ID": "RMCS BRACKET.prt R000062bc0000002f"
+    },
+    {
+      "FaceType": "Planar",
+      "FaceName": "FACE-4",
+      "ID": "RMCS BRACKET.prt R0000569b0000002f"
+    },
+    {
+      "FaceType": "Planar",
+      "FaceName": "FACE-5",
+      "ID": "RMCS BRACKET.prt R000062bb0000002f"
+    },
+    {
+      "FaceType": "Planar",
+      "FaceName": "FACE-6",
+      "ID": "RMCS BRACKET.prt R0000569c0000002f"
+    },
+    {
+      "FaceType": "Planar",
+      "FaceName": "FACE-7",
+      "ID": "RMCS BRACKET.prt R000062ba0000002f"
+    },
+    {
+      "FaceType": "Cylindrical",
+      "FaceName": "FACE-8",
+      "ID": "RMCS BRACKET.prt R0000569d0000002f"
+    },
+    {
+      "FaceType": "Cylindrical",
+      "FaceName": "FACE-9",
+      "ID": "RMCS BRACKET.prt R000065aa0000002f"
+    },
+    {
+      "FaceType": "Conical",
+      "FaceName": "FACE-10",
+      "ID": "RMCS BRACKET.prt R000066fa0000002f"
+    },
+    {
+      "FaceType": "Planar",
+      "FaceName": "FACE-11",
+      "ID": "RMCS BRACKET.prt R0000646d0000002f"
+    },
+    {
+      "FaceType": "Planar",
+      "FaceName": "FACE-12",
+      "ID": "RMCS BRACKET.prt R000056990000002f"
+    },
+    {
+      "FaceType": "Cylindrical",
+      "FaceName": "FACE-13",
+      "ID": "RMCS BRACKET.prt R000066c00000002f"
+    },
+    {
+      "FaceType": "Cylindrical",
+      "FaceName": "FACE-14",
+      "ID": "RMCS BRACKET.prt R0000646e0000002f"
+    },
+    {
+      "FaceType": "Planar",
+      "FaceName": "FACE-15",
+      "ID": "RMCS BRACKET.prt R000062b90000002f"
+    },
+    {
+      "FaceType": "Planar",
+      "FaceName": "FACE-16",
+      "ID": "RMCS BRACKET.prt R0000569e0000002f"
+    }
+  ],
+  "Edges": [
+    {
+      "Name": "EDGE-1",
+      "ID": "RMCS BRACKET.prt R000064700000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": -12.78483742982921,
+        "Y": 1.97311952035673,
+        "Z": 39.0
+      },
+      "Vertix2": {
+        "X": -12.78483742982921,
+        "Y": 1.97311952035673,
+        "Z": 39.0
+      },
+      "Length": 0.0,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-1,FACE-11"
+    },
+    {
+      "Name": "EDGE-2",
+      "ID": "RMCS BRACKET.prt R000056a70000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": -53.000000000000064,
+        "Y": -32.000000000006423,
+        "Z": 19.0
+      },
+      "Vertix2": {
+        "X": -53.000000000000064,
+        "Y": -32.000000000006423,
+        "Z": 0.0
+      },
+      "Length": 19.0,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-4,FACE-2"
+    },
+    {
+      "Name": "EDGE-3",
+      "ID": "RMCS BRACKET.prt R000062bf0000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": -30.151245361343712,
+        "Y": -31.999999999977117,
+        "Z": 19.0
+      },
+      "Vertix2": {
+        "X": -30.151245361343712,
+        "Y": 32.000000000022887,
+        "Z": 19.0
+      },
+      "Length": 64.0,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-12,FACE-15"
+    },
+    {
+      "Name": "EDGE-4",
+      "ID": "RMCS BRACKET.prt R000062c50000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": 60.999999999999986,
+        "Y": 32.0,
+        "Z": 19.0
+      },
+      "Vertix2": {
+        "X": 33.848754638656331,
+        "Y": 32.000000000022887,
+        "Z": 19.0
+      },
+      "Length": 27.151245361343651,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-3,FACE-6"
+    },
+    {
+      "Name": "EDGE-5",
+      "ID": "RMCS BRACKET.prt R000064710000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": -20.28483742982921,
+        "Y": 1.97311952035673,
+        "Z": 39.0
+      },
+      "Vertix2": {
+        "X": -20.28483742982921,
+        "Y": 1.97311952035673,
+        "Z": 39.0
+      },
+      "Length": 0.0,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-11,FACE-14"
+    },
+    {
+      "Name": "EDGE-6",
+      "ID": "RMCS BRACKET.prt R000056a20000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": 61.000000000006409,
+        "Y": -32.000000000000583,
+        "Z": 19.0
+      },
+      "Vertix2": {
+        "X": 60.999999999999986,
+        "Y": 32.0,
+        "Z": 19.0
+      },
+      "Length": 0.0,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-3,FACE-8"
+    },
+    {
+      "Name": "EDGE-7",
+      "ID": "RMCS BRACKET.prt R000056a80000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": -52.999999999999986,
+        "Y": 31.999999999999876,
+        "Z": 19.0
+      },
+      "Vertix2": {
+        "X": -53.000000000000064,
+        "Y": -32.000000000006423,
+        "Z": 19.0
+      },
+      "Length": 0.0,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-12,FACE-2"
+    },
+    {
+      "Name": "EDGE-8",
+      "ID": "RMCS BRACKET.prt R000062c00000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": 33.848754638656331,
+        "Y": -32.00000000000167,
+        "Z": 19.0
+      },
+      "Vertix2": {
+        "X": 61.000000000006409,
+        "Y": -32.000000000000583,
+        "Z": 19.0
+      },
+      "Length": 27.151245361350085,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-3,FACE-4"
+    },
+    {
+      "Name": "EDGE-9",
+      "ID": "RMCS BRACKET.prt R000062c60000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": -30.151245361343712,
+        "Y": -31.999999999977117,
+        "Z": 64.0
+      },
+      "Vertix2": {
+        "X": -30.151245361343712,
+        "Y": 32.000000000022887,
+        "Z": 64.0
+      },
+      "Length": 64.0,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-15,FACE-7"
+    },
+    {
+      "Name": "EDGE-10",
+      "ID": "RMCS BRACKET.prt R000066c40000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": -69.7190608042816,
+        "Y": -1.62352827210288,
+        "Z": 19.0
+      },
+      "Vertix2": {
+        "X": -69.7190608042816,
+        "Y": -1.62352827210288,
+        "Z": 19.0
+      },
+      "Length": 0.0,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-12,FACE-13"
+    },
+    {
+      "Name": "EDGE-11",
+      "ID": "RMCS BRACKET.prt R000056a90000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": 60.999999999999986,
+        "Y": 32.0,
+        "Z": 19.0
+      },
+      "Vertix2": {
+        "X": 60.999999999999986,
+        "Y": 32.0,
+        "Z": 0.0
+      },
+      "Length": 19.0,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-6,FACE-8"
+    },
+    {
+      "Name": "EDGE-12",
+      "ID": "RMCS BRACKET.prt R000065ae0000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": 73.88270582424849,
+        "Y": -3.21537621298962,
+        "Z": 0.0
+      },
+      "Vertix2": {
+        "X": 73.88270582424849,
+        "Y": -3.21537621298962,
+        "Z": 0.0
+      },
+      "Length": 0.0,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-16,FACE-9"
+    },
+    {
+      "Name": "EDGE-13",
+      "ID": "RMCS BRACKET.prt R000062c10000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": 33.848754638656331,
+        "Y": 32.000000000022887,
+        "Z": 64.0
+      },
+      "Vertix2": {
+        "X": 33.848754638656331,
+        "Y": -31.999999999977117,
+        "Z": 64.0
+      },
+      "Length": 64.0,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-5,FACE-7"
+    },
+    {
+      "Name": "EDGE-14",
+      "ID": "RMCS BRACKET.prt R000062c70000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": -30.151245361343712,
+        "Y": -31.999999999977117,
+        "Z": 64.0
+      },
+      "Vertix2": {
+        "X": -30.151245361343712,
+        "Y": -31.999999999977117,
+        "Z": 19.0
+      },
+      "Length": 44.999999999999979,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-4,FACE-15"
+    },
+    {
+      "Name": "EDGE-15",
+      "ID": "RMCS BRACKET.prt R000066fb0000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": 17.21516257017079,
+        "Y": 1.97311952035673,
+        "Z": 0.0
+      },
+      "Vertix2": {
+        "X": 17.21516257017079,
+        "Y": 1.97311952035673,
+        "Z": 0.0
+      },
+      "Length": 0.0,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-16,FACE-10"
+    },
+    {
+      "Name": "EDGE-16",
+      "ID": "RMCS BRACKET.prt R0000569f0000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": 60.999999999999986,
+        "Y": 32.0,
+        "Z": 0.0
+      },
+      "Vertix2": {
+        "X": -52.999999999999986,
+        "Y": 31.999999999999876,
+        "Z": 0.0
+      },
+      "Length": 113.99999999999997,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-6,FACE-16"
+    },
+    {
+      "Name": "EDGE-17",
+      "ID": "RMCS BRACKET.prt R000056a30000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": 61.000000000006409,
+        "Y": -32.000000000000583,
+        "Z": 0.0
+      },
+      "Vertix2": {
+        "X": 60.999999999999986,
+        "Y": 32.0,
+        "Z": 0.0
+      },
+      "Length": 0.0,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-8,FACE-16"
+    },
+    {
+      "Name": "EDGE-18",
+      "ID": "RMCS BRACKET.prt R000056aa0000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": -30.151245361343712,
+        "Y": 32.000000000022887,
+        "Z": 19.0
+      },
+      "Vertix2": {
+        "X": -52.999999999999986,
+        "Y": 31.999999999999876,
+        "Z": 19.0
+      },
+      "Length": 22.848754638656256,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-12,FACE-6"
+    },
+    {
+      "Name": "EDGE-19",
+      "ID": "RMCS BRACKET.prt R000062c20000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": -30.151245361343712,
+        "Y": 32.000000000022887,
+        "Z": 64.0
+      },
+      "Vertix2": {
+        "X": 33.848754638656331,
+        "Y": 32.000000000022887,
+        "Z": 64.0
+      },
+      "Length": 64.000000000000043,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-6,FACE-7"
+    },
+    {
+      "Name": "EDGE-20",
+      "ID": "RMCS BRACKET.prt R000056a40000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": -53.000000000000064,
+        "Y": -32.000000000006423,
+        "Z": 0.0
+      },
+      "Vertix2": {
+        "X": 61.000000000006409,
+        "Y": -32.000000000000583,
+        "Z": 0.0
+      },
+      "Length": 114.00000000000648,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-4,FACE-16"
+    },
+    {
+      "Name": "EDGE-21",
+      "ID": "RMCS BRACKET.prt R000062c80000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": 33.848754638656331,
+        "Y": -31.999999999977117,
+        "Z": 64.0
+      },
+      "Vertix2": {
+        "X": -30.151245361343712,
+        "Y": -31.999999999977117,
+        "Z": 64.0
+      },
+      "Length": 64.000000000000057,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-4,FACE-7"
+    },
+    {
+      "Name": "EDGE-22",
+      "ID": "RMCS BRACKET.prt R000066fc0000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": 12.21516257017079,
+        "Y": 1.97311952035673,
+        "Z": 5.0000000000000044
+      },
+      "Vertix2": {
+        "X": 12.21516257017079,
+        "Y": 1.97311952035673,
+        "Z": 5.0000000000000044
+      },
+      "Length": 0.0,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-1,FACE-10"
+    },
+    {
+      "Name": "EDGE-23",
+      "ID": "RMCS BRACKET.prt R000056a50000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": -52.999999999999986,
+        "Y": 31.999999999999876,
+        "Z": 19.0
+      },
+      "Vertix2": {
+        "X": -52.999999999999986,
+        "Y": 31.999999999999876,
+        "Z": 0.0
+      },
+      "Length": 19.0,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-2,FACE-6"
+    },
+    {
+      "Name": "EDGE-24",
+      "ID": "RMCS BRACKET.prt R000062bd0000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": 33.848754638656331,
+        "Y": 32.000000000022887,
+        "Z": 64.0
+      },
+      "Vertix2": {
+        "X": 33.848754638656331,
+        "Y": 32.000000000022887,
+        "Z": 19.0
+      },
+      "Length": 44.999999999999979,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-6,FACE-5"
+    },
+    {
+      "Name": "EDGE-25",
+      "ID": "RMCS BRACKET.prt R000062c30000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": 33.848754638656331,
+        "Y": -31.999999999977117,
+        "Z": 64.0
+      },
+      "Vertix2": {
+        "X": 33.848754638656331,
+        "Y": -32.00000000000167,
+        "Z": 19.0
+      },
+      "Length": 44.999999999999979,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-5,FACE-4"
+    },
+    {
+      "Name": "EDGE-26",
+      "ID": "RMCS BRACKET.prt R000056a10000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": 61.000000000006409,
+        "Y": -32.000000000000583,
+        "Z": 19.0
+      },
+      "Vertix2": {
+        "X": 61.000000000006409,
+        "Y": -32.000000000000583,
+        "Z": 0.0
+      },
+      "Length": 19.0,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-8,FACE-4"
+    },
+    {
+      "Name": "EDGE-27",
+      "ID": "RMCS BRACKET.prt R000064740000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": -20.28483742982921,
+        "Y": 1.97311952035673,
+        "Z": 64.0
+      },
+      "Vertix2": {
+        "X": -20.28483742982921,
+        "Y": 1.97311952035673,
+        "Z": 64.0
+      },
+      "Length": 0.0,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-7,FACE-14"
+    },
+    {
+      "Name": "EDGE-28",
+      "ID": "RMCS BRACKET.prt R000065ad0000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": 51.882705824248504,
+        "Y": -3.21537621298962,
+        "Z": 19.0
+      },
+      "Vertix2": {
+        "X": 51.882705824248504,
+        "Y": -3.21537621298962,
+        "Z": 19.0
+      },
+      "Length": 0.0,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-3,FACE-9"
+    },
+    {
+      "Name": "EDGE-29",
+      "ID": "RMCS BRACKET.prt R000056a60000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": -52.999999999999986,
+        "Y": 31.999999999999876,
+        "Z": 0.0
+      },
+      "Vertix2": {
+        "X": -53.000000000000064,
+        "Y": -32.000000000006423,
+        "Z": 0.0
+      },
+      "Length": 0.0,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-2,FACE-16"
+    },
+    {
+      "Name": "EDGE-30",
+      "ID": "RMCS BRACKET.prt R000056a00000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": -53.000000000000064,
+        "Y": -32.000000000006423,
+        "Z": 19.0
+      },
+      "Vertix2": {
+        "X": -30.151245361343712,
+        "Y": -31.999999999977117,
+        "Z": 19.0
+      },
+      "Length": 22.848754638656345,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-12,FACE-4"
+    },
+    {
+      "Name": "EDGE-31",
+      "ID": "RMCS BRACKET.prt R000062be0000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": -30.151245361343712,
+        "Y": 32.000000000022887,
+        "Z": 64.0
+      },
+      "Vertix2": {
+        "X": -30.151245361343712,
+        "Y": 32.000000000022887,
+        "Z": 19.0
+      },
+      "Length": 44.999999999999979,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-15,FACE-6"
+    },
+    {
+      "Name": "EDGE-32",
+      "ID": "RMCS BRACKET.prt R000062c40000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": 33.848754638656331,
+        "Y": 32.000000000022887,
+        "Z": 19.0
+      },
+      "Vertix2": {
+        "X": 33.848754638656331,
+        "Y": -32.00000000000167,
+        "Z": 19.0
+      },
+      "Length": 64.000000000024571,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-3,FACE-5"
+    },
+    {
+      "Name": "EDGE-33",
+      "ID": "RMCS BRACKET.prt R000066c30000002f",
+      "Type": "Unknown",
+      "Vertix1": {
+        "X": -47.7190608042816,
+        "Y": -1.62352827210288,
+        "Z": 0.0
+      },
+      "Vertix2": {
+        "X": -47.7190608042816,
+        "Y": -1.62352827210288,
+        "Z": 0.0
+      },
+      "Length": 0.0,
+      "Radius": 0.0,
+      "Angle": 0.0,
+      "Faces": "FACE-16,FACE-13"
+    }
+  ]
+}

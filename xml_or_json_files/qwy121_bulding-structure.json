@@ -1,0 +1,91 @@
+{
+  "building": {
+    "name": "Conceptual Modern Building",
+    "dimensions": {
+      "width": 30.0,
+      "depth": 20.0,
+      "height": 15.0,
+      "unit": "meters"
+    },
+    "components": [
+      {
+        "type": "base",
+        "geometry": "box",
+        "dimensions": {
+          "width": 30.0,
+          "depth": 20.0,
+          "height": 1.0
+        },
+        "material": "concrete"
+      },
+      {
+        "type": "main_body",
+        "geometry": "box",
+        "position": { "x": 0, "y": 0, "z": 1.0 },
+        "dimensions": {
+          "width": 28.0,
+          "depth": 18.0,
+          "height": 10.0
+        },
+        "material": "glass_steel"
+      },
+      {
+        "type": "curved_roof",
+        "geometry": "cylinder_section",
+        "position": { "x": 0, "y": 0, "z": 11.0 },
+        "dimensions": {
+          "radius": 14.0,
+          "angle": 180,
+          "depth": 18.0,
+          "thickness": 0.5
+        },
+        "orientation": "horizontal",
+        "material": "metal"
+      },
+      {
+        "type": "entrance",
+        "geometry": "box",
+        "position": { "x": 5.0, "y": 0, "z": 1.0 },
+        "dimensions": {
+          "width": 3.0,
+          "depth": 1.5,
+          "height": 4.0
+        },
+        "material": "glass"
+      },
+      {
+        "type": "cylindrical_stair_tower",
+        "geometry": "cylinder",
+        "position": { "x": 28.0, "y": 10.0, "z": 1.0 },
+        "dimensions": {
+          "radius": 2.0,
+          "height": 14.0
+        },
+        "material": "concrete_glass"
+      },
+      {
+        "type": "window_array",
+        "geometry": "hole_array",
+        "position": { "x": 0.5, "y": 0.5, "z": 2.0 },
+        "pattern": {
+          "rows": 3,
+          "columns": 5,
+          "spacing": { "horizontal": 4.0, "vertical": 3.0 },
+          "hole_dimensions": { "width": 2.0, "height": 2.0 }
+        },
+        "target_surface": "main_body",
+        "side": "south"
+      },
+      {
+        "type": "roof_skylight",
+        "geometry": "hole",
+        "position": { "x": 14.0, "y": 9.0, "z": 11.2 },
+        "dimensions": {
+          "radius": 2.0
+        },
+        "target_surface": "curved_roof",
+        "material": "transparent_glass"
+      }
+    ]
+  }
+}
